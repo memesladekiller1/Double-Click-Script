@@ -1,5 +1,5 @@
 # Double-Click-Script
-
+The script is the " DoubleClick.ahk " which is the first file.
 A simple AutoHotKey script that allows multiple clicks per action. Created by memesladekiller.
 
 Instructions:
