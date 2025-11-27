@@ -16,5 +16,5 @@ Keybinds:
 Notes (for the reckless)
 Do not mess with the script if you don’t know what you’re doing.
 Click multipliers: The clicks-per-second (CPS) multiplier for each button (left and right) starts at x2 by default,
-Avoid setting your CPS multiplier above x10 — unless you want to risk turning your CPU into a space heater.
+Avoid setting your CPS multiplier above x10 unless, you want to risk turning your CPU into a space heater.
 
