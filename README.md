@@ -1,5 +1,5 @@
 # Double-Click-Script
-The script is the " DoubleClick.ahk " which is the first file.
+The script is the " DoubleClick.ahk " if u want to use AutoHotKey or "EXE_one.exe" which can be directly ran.
 A simple AutoHotKey script that allows multiple clicks per action. Created by memesladekiller.
 
 Instructions:
